@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="empty">EMPTY</string>
+    <string name="name">Name</string>
+    <string name="speed">Speed</string>
+    <string name="attack">Attack</string>
+    <string name="hp">HP</string>
+    <string name="deffend">Defense</string>
+    <string name="moves">MOVES</string>
+    <string name="catch_pokemon">Catch Pokemon!!</string>
+    <string name="release">Release Pokemon</string>
+    <string name="my_pokemon">MY POKEMON</string>
+    <string name="special_attack">Special-Attack</string>
+    <string name="special_defend">Special-Defense</string>
+</resources>

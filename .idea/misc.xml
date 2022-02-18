@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PokemonApp/app/src/main/res/drawable/box.xml" value="0.19166666666666668" />
+        <entry key="..\:/PokemonApp/app/src/main/res/drawable/ic_black_box.xml" value="0.19166666666666668" />
+        <entry key="..\:/PokemonApp/app/src/main/res/drawable/ic_light_box.xml" value="0.19166666666666668" />
+        <entry key="..\:/PokemonApp/app/src/main/res/layout/activity_catched.xml" value="0.1" />
+        <entry key="..\:/PokemonApp/app/src/main/res/layout/activity_detail.xml" value="0.3882488479262673" />
+        <entry key="..\:/PokemonApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PokemonApp/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/PokemonApp/app/src/main/res/layout/list_pokemon.xml" value="0.10733695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
